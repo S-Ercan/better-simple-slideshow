@@ -1,6 +1,6 @@
 .bss-slides{
   position: relative;
-  display: block;    
+  display: block;
 }
 .bss-slides:focus{
  outline: 0;
@@ -9,6 +9,8 @@
   position: absolute;
   top: 0;
   width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 .bss-slides figure:first-child{
   position: relative;
