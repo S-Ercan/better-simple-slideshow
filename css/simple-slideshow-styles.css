@@ -55,15 +55,14 @@
   color: #fff;    
 }
 .bss-next, .bss-prev{
-  color: #fff;
+  color: red;
   position: absolute;
-  background: #000;
-  background: rgba(0,0,0, .6);
+  background: yellow;
   top: 50%;
   z-index: 4;
   font-size: 2em;
   margin-top: -1.2em;
-  opacity: .3;
+  opacity: .7;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
